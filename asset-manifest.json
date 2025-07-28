@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/NxtTrendzAuthReact/static/css/main.6b5c30ef.chunk.css",
-    "main.js": "/NxtTrendzAuthReact/static/js/main.66d0698f.chunk.js",
-    "main.js.map": "/NxtTrendzAuthReact/static/js/main.66d0698f.chunk.js.map",
+    "main.js": "/NxtTrendzAuthReact/static/js/main.5548529d.chunk.js",
+    "main.js.map": "/NxtTrendzAuthReact/static/js/main.5548529d.chunk.js.map",
     "runtime-main.js": "/NxtTrendzAuthReact/static/js/runtime-main.e25fb808.js",
     "runtime-main.js.map": "/NxtTrendzAuthReact/static/js/runtime-main.e25fb808.js.map",
-    "static/js/2.356bb4b7.chunk.js": "/NxtTrendzAuthReact/static/js/2.356bb4b7.chunk.js",
-    "static/js/2.356bb4b7.chunk.js.map": "/NxtTrendzAuthReact/static/js/2.356bb4b7.chunk.js.map",
+    "static/js/2.1579ec99.chunk.js": "/NxtTrendzAuthReact/static/js/2.1579ec99.chunk.js",
+    "static/js/2.1579ec99.chunk.js.map": "/NxtTrendzAuthReact/static/js/2.1579ec99.chunk.js.map",
     "index.html": "/NxtTrendzAuthReact/index.html",
     "static/css/main.6b5c30ef.chunk.css.map": "/NxtTrendzAuthReact/static/css/main.6b5c30ef.chunk.css.map",
-    "static/js/2.356bb4b7.chunk.js.LICENSE.txt": "/NxtTrendzAuthReact/static/js/2.356bb4b7.chunk.js.LICENSE.txt"
+    "static/js/2.1579ec99.chunk.js.LICENSE.txt": "/NxtTrendzAuthReact/static/js/2.1579ec99.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e25fb808.js",
-    "static/js/2.356bb4b7.chunk.js",
+    "static/js/2.1579ec99.chunk.js",
     "static/css/main.6b5c30ef.chunk.css",
-    "static/js/main.66d0698f.chunk.js"
+    "static/js/main.5548529d.chunk.js"
   ]
 }
